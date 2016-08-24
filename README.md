@@ -1,3 +1,4 @@
 # HelloWord
 Just a demo
-\n The first Github project.
+
+The first Github project.
